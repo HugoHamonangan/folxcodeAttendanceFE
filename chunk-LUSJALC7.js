@@ -1,0 +1,1 @@
+import{V as e}from"./chunk-24CHYTPN.js";var a=class i{dialogRef=null;closeIfOpen(o){this.dialogRef&&(this.dialogRef.close(o),this.dialogRef=null)}static \u0275fac=function(t){return new(t||i)};static \u0275prov=e({token:i,factory:i.\u0275fac,providedIn:"root"})};export{a};

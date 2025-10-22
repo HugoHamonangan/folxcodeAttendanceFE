@@ -1,0 +1,1 @@
+import{$a as a,m as i}from"./chunk-ZAHCPB2U.js";import{Gb as o,hb as n}from"./chunk-24CHYTPN.js";var p=class t{constructor(){}ngOnInit(){}static \u0275fac=function(e){return new(e||t)};static \u0275cmp=n({type:t,selectors:[["app-auth"]],decls:1,vars:0,template:function(e,m){e&1&&o(0,"router-outlet")},dependencies:[a,i],encapsulation:2})};export{p as a};

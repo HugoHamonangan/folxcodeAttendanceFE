@@ -1,0 +1,1 @@
+import{V as e,wa as r}from"./chunk-24CHYTPN.js";var n=class t{imageUrl=r(null);show(i){this.imageUrl.set(i)}hide(){this.imageUrl.set(null)}static \u0275fac=function(l){return new(l||t)};static \u0275prov=e({token:t,factory:t.\u0275fac,providedIn:"root"})};export{n as a};
